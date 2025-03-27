@@ -19,16 +19,17 @@ Exploring ascidians is instrumental in identifying its role in the invertebrate 
 Phylogenetic-Tree-Project
 
 > Data
-> Sequences.fasta         # Gene sequences from NCBI
-> Tree_data.nexus         # Nexus file for tree generation
+> Sequences.fasta (Gene sequences from NCBI)
+> Tree_data.nexus  (Nexus file for tree generation)
 
-Output                      # Analysis output (trees, plots)
+> Output           (Analysis output (trees, plots)
 
-Scripts                     # Analysis scripts
-Phylo_analysis.Rmd       # R Markdown for loading and analysis
+> Scripts                     (Analysis scripts)
+> Phylo_analysis.Rmd       (R Markdown for loading and analysis)
 
-Dataset_card.md              # Dataset card for context
-README.md                    # Project overview and instructions
+> Dataset_card.md              (Dataset card for context)
+> README.md                    (Project overview and instructions)
+
 I am getting started
 Prerequisites
 •	R or RStudio (for analysis scripts)
