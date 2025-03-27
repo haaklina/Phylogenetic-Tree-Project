@@ -17,9 +17,10 @@ Scope of Research
 Exploring ascidians is instrumental in identifying its role in the invertebrate ecology of California aquatic ecosystems. They are recognized as an important model organism in innate immunity studies. Ascidian species have played a significant part as a natural source for curing cancer diseases in the modern medicine pavilion.
 
 Phylogenetic-Tree-Project
-Data
-Sequences.fasta         # Gene sequences from NCBI
-Tree_data.nexus         # Nexus file for tree generation
+
+> Data
+> Sequences.fasta         # Gene sequences from NCBI
+> Tree_data.nexus         # Nexus file for tree generation
 
 Output                      # Analysis output (trees, plots)
 
