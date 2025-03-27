@@ -1,7 +1,21 @@
-Phylogenetic Tree Project
-Project Overview
-This project aims to construct and analyze phylogenetic trees using gene sequence data obtained from the National Center for Biotechnology Information (NCBI). By leveraging FASTA files for genetic sequences and Nexus files for tree generation, the project explores evolutionary relationships among species.
-Repository Structure
+Title: Morphological and genetic characterization of outer coast ascidians in central California (CA).
+Abstract
+Ascidians play an important role in the invertebrate ecology of California aquatic ecosystems. In addition, they have a great contribution in medical science. Bays are full of nonindigenous and some native ascidians that are under investigation to learn their existence. The central coast of California remains understudied since it has been dominated by native species, although the problematic invasive didemnid is threatening to escape from San Francisco Bay to the outer coast at this time. It is significant to identify in this region which species are present on the outer coast, and to update taxonomic analyses with additional reproductive characters, habitat and distributional characters, and molecular information.
+
+Problem statement
+The ascidians species have a similar colony and zooid outlook, which is why it can be challenging to distinguish them by using identification keys which nearly provided an ambiguous result.
+Main points
+• Zooids outlook similar
+• Molecular and morphological context
+• Evolution of major native and non-native species.
+Research Questions
+The present proposal describes the project that I wish to undertake in order to contribute to finding a solution to these questions/problems: what are the morphological and reproductive patterns of ascidian species? Why are the characteristics influenced by distribution of outer bay species? What species are located on outer coast and which morphological characteristics are used to define them as well as what is currently reported as being on coast?
+Research Objectives
+The main objective is to reassess tunicate species diversity in central CA by combining varied kinds of data, including molecular, morphological, ecological, and historic information. All these investigations will specify what species are, where and when they were recently present, and assist
+in defining accurate species identification.
+Scope of Research
+Exploring ascidians is instrumental in identifying its role in the invertebrate ecology of California aquatic ecosystems. They are recognized as an important model organism in innate immunity studies. Ascidian species have played a significant part as a natural source for curing cancer diseases in the modern medicine pavilion.
+
 /Phylogenetic-Tree-Project
 │
 ├── /data
