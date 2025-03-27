@@ -16,23 +16,19 @@ in defining accurate species identification.
 Scope of Research
 Exploring ascidians is instrumental in identifying its role in the invertebrate ecology of California aquatic ecosystems. They are recognized as an important model organism in innate immunity studies. Ascidian species have played a significant part as a natural source for curing cancer diseases in the modern medicine pavilion.
 
-/Phylogenetic-Tree-Project
-│
-├── /data
-│   ├── sequences.fasta         # Gene sequences from NCBI
-│   ├── tree_data.nexus         # Nexus file for tree generation
-│
-├── /output                      # Analysis output (trees, plots)
-│
-├── /scripts                     # Analysis scripts
-│   └── phylo_analysis.Rmd       # R Markdown for loading and analysis
-│
-├── /docs                        # Additional documentation (if needed)
-│
-├── dataset_card.md              # Dataset card for context
-│
-└── README.md                    # Project overview and instructions
-Getting Started
+Phylogenetic-Tree-Project
+# data
+## sequences.fasta         # Gene sequences from NCBI
+## tree_data.nexus         # Nexus file for tree generation
+
+# output                      # Analysis output (trees, plots)
+
+# scripts                     # Analysis scripts
+# phylo_analysis.Rmd       # R Markdown for loading and analysis
+
+# dataset_card.md              # Dataset card for context
+# README.md                    # Project overview and instructions
+I am getting started
 Prerequisites
 •	R or RStudio (for analysis scripts)
 •	Required R packages: ape, phangorn, seqinr
