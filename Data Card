@@ -1,0 +1,19 @@
+Dataset Card: Phylogenetic Tree Project
+Title: Phylogenetic Tree of Gene Sequences from NCBI
+Description: This dataset contains gene sequence of Ascidian species data obtained from the National Center for Biotechnology Information (NCBI) in FASTA format and a corresponding Nexus file used for generating phylogenetic trees. The purpose of this project is to construct and analyze phylogenetic relationships among species using sequence data.
+Source:
+•	Data retrieved from: NCBI (National Center for Biotechnology Information)
+•	File Formats: .fasta for gene sequences, .nexus for phylogenetic tree generation
+Dataset Structure:
+•	sequences.fasta: Contains multiple gene sequences in FASTA format.
+•	tree_data.nexus: Contains phylogenetic tree generation information.
+Usage: The dataset is intended for investiagtion native and invasive tunicate species research at outer coast California in evolutionary biology. It allows for the analysis of phylogenetic relationships, sequence alignment, and tree construction. Example analyses include:
+•	Sequence alignment to find conserved regions.
+•	Construction of phylogenetic trees to study evolutionary relationships.
+Licensing:/scripts/projects/magicblast/LICENSE.
+Limitations:
+•	The dataset may contain incomplete or low-quality sequences.
+•	Potential biases due to sample collection and gene selection.
+•	Requires bioinformatics expertise for tree construction and interpretation.
+Ethical Considerations: All data have been sourced from publicly available repositories and adhere to open-access policies.
+Citation: https://www.ncbi.nlm.nih.gov/nuccore/?term=Ascidian.
