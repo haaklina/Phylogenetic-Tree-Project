@@ -19,15 +19,19 @@ Exploring ascidians is instrumental in identifying its role in the invertebrate 
 Phylogenetic-Tree-Project
 
 > Data
+
 > Sequences.fasta (Gene sequences from NCBI)
+
 > Tree_data.nexus  (Nexus file for tree generation)
 
 > Output           (Analysis output (trees, plots)
 
 > Scripts                     (Analysis scripts)
+
 > Phylo_analysis.Rmd       (R Markdown for loading and analysis)
 
 > Dataset_card.md              (Dataset card for context)
+
 > README.md                    (Project overview and instructions)
 
 I am getting started
@@ -45,21 +49,18 @@ install.packages("seqinr")
 Usage
 Running the Analysis
 1.	Load the data and scripts:
-2.	# Load packages
+2.	## Load packages
 3.	library(ape)
 4.	library(phangorn)
 5.	library(seqinr)
 6.	
-7.	# Read data
+7.	## Read data
 8.	fasta_data <- read.fasta("data/sequences.fasta")
 nexus_data <- read.nexus("data/tree_data.nexus")
 9.	Perform phylogenetic tree construction and visualization.
 Output
 •	The /output directory will contain generated phylogenetic trees, sequence alignments, and plots.
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with proposed changes.
-License
-This project adheres to open-access policies. Refer to NCBI's data usage policy for licensing and attribution requirements.
+
 Contact
 For questions or collaboration opportunities, please contact haaklina or Hasna Akther.
 ![image](https://github.com/user-attachments/assets/0fcacd56-73e2-4880-8599-0eeaf245cf1c)
